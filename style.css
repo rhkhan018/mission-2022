@@ -2,3 +2,59 @@ body {
     margin: 0;
     padding: 0;
 }
+
+h1 {
+    font-size: 40px;
+    color: #333333;
+    font-family: 'Yeseva One', cursive;
+    font-weight: 400;
+}
+
+p {
+    font-size: 16px;
+    line-height: 24px;
+    color: #3E3E3E;
+    padding-right: 70px;
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+
+.h-font-color {
+    color: #FFAD5A;
+    font-family: 'Yeseva One', cursive;
+}
+
+.stay-focused {
+    border-left: 5px solid #FF5959;
+    padding-left: 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.link-btn {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #fff;
+    padding: 10px 40px;
+    background-color: #FF5959;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 12%;
+}
+
+.half-width img {
+    width: 60%;
+}
+
+.flex-container {
+    display: flex;
+}
