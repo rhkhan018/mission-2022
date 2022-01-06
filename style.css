@@ -166,3 +166,24 @@ section {
     font-weight: normal;
     font-family: 'Poppins', sans-serif;
 }
+
+footer {
+    height: 200px;
+    background-color: #000;
+    padding: 30px 0px;
+}
+
+.footer-h {
+    color: #fff;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+footer p {
+    text-align: center;
+    color: #fff;
+}
+
+.project-img-width {
+    width: 300px;
+}
